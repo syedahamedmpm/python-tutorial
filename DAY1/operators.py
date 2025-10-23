@@ -21,3 +21,6 @@ print("Less or Equal:", a <= b)
 
 
 #logical
+
+print("AND:", a > 5 and b < 5)
+print("OR:", a > 5 or b > 5)
