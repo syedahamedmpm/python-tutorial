@@ -1,0 +1,6 @@
+x = input('Enter First Number = ')
+y = input('Enter Second Number = ')
+print('SUM = ',int(x)+int(y))
+print('DIFFERENCE = ',int(x)-int(y))
+print('PRODUCT = ',int(x)*int(y))
+print('REMAINDER = ',int(x)%int(y))
